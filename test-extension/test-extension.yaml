@@ -1,5 +1,6 @@
 id: test-extension
 name: A extension for testing
+description: "Simple extension to test the extension cli commands"
 version: 1.0
 author: "Thorsten Marx"
 url: "https://github.com/thmarx/extension-registry"
